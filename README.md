@@ -6,10 +6,10 @@ Jr Full Stack Developer
 
 I am on a learning journey to be a full stack developer. I have always had a passion for technology and design. This career path can combine both and that makes me all the more excited.
 
-* 🌍  I'm based in Istanbul
-* 🧠  I'm learning Spring Boot and ReactJS
-* ⚡  I am a proud UCLA alumnus, a rare CSS fan, have over 100 house plants, and prefer dessert over meals.
-* ✉️  You can contact me at [deveciemre@gmail.com](mailto:deveciemre@gmail.com)
+🌍  I'm based in Istanbul
+🧠  I'm learning Spring Boot and ReactJS
+⚡  I am a proud UCLA alumnus, a rare CSS fan, have over 100 house plants, and prefer dessert over meals.
+✉️  You can contact me at [deveciemre@gmail.com](mailto:deveciemre@gmail.com)
 
 ### Skills
 
